@@ -1,4 +1,4 @@
-{
+export const quizz_questions = {
   "title":"Você seria um heroi ou vilão ?",
   "questions":[
     {
